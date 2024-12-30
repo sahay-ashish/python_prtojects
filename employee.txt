@@ -1,0 +1,4 @@
+   emp_id     emp_name  emp_age emp_department emp_salary emp_join_date
+0       2  Bob Johnson       35             IT   75000.00    2018-07-01
+1       6  Fiona Clark       29             IT   72000.00    2021-01-15
+2      11   Kevin Hart       33             IT   70000.00    2020-10-19

@@ -1,0 +1,2 @@
+emp_id,emp_name_client,emp_age_client,emp_department_client,emp_salary_client,emp_join_date_client,emp_name_vendor,emp_age_vendor,emp_department_vendor,emp_salary_vendor,emp_join_date_vendor
+7,George Miller,50,HR,55000.0,2010-12-01,Ashish Kumar,50,HR,55000.0,2010-12-01
